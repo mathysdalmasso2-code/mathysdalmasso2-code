@@ -1,6 +1,6 @@
 <h1 align="center">Salut 👋, moi c'est Mathys !</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35,60&height=120&section=header&text=STI2D%20SIN%20•%20Tech%20&%20Mécanique&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,35,60&height=120&section=header&text=Mathys%20DALMASSO%20&%20Mécanique&fontSize=22&fontColor=fff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
