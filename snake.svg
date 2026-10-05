@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d9ff"/>
+      <stop offset="1" stop-color="#2c8fb3"/>
+    </linearGradient>
+  </defs>
+
+  <!-- petite piste en pointillés -->
+  <path d="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"
+        fill="none" stroke="#2c5364" stroke-width="2" stroke-dasharray="4 8" opacity="0.5"/>
+
+  <!-- corps (du plus proche de la tête au bout de la queue) -->
+  <circle r="8" fill="#00d9ff"><animateMotion dur="8s" begin="-2.8s" repeatCount="indefinite" path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/></circle>
+  <circle r="8" fill="#00cfee"><animateMotion dur="8s" begin="-2.6s" repeatCount="indefinite" path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/></circle>
+  <circle r="7.5" fill="#00c4e0"><animateMotion dur="8s" begin="-2.4s" repeatCount="indefinite" path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/></circle>
+  <circle r="7.5" fill="#12b9d6"><animateMotion dur="8s" begin="-2.2s" repeatCount="indefinite" path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/></circle>
+  <circle r="7" fill="#1eaecb"><animateMotion dur="8s" begin="-2s" repeatCount="indefinite" path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/></circle>
+  <circle r="6.5" fill="#25a3c1"><animateMotion dur="8s" begin="-1.8s" repeatCount="indefinite" path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/></circle>
+  <circle r="6" fill="#2a98b7"><animateMotion dur="8s" begin="-1.6s" repeatCount="indefinite" path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/></circle>
+  <circle r="5.5" fill="#2b8dad"><animateMotion dur="8s" begin="-1.4s" repeatCount="indefinite" path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/></circle>
+  <circle r="5" fill="#2c82a3"><animateMotion dur="8s" begin="-1.2s" repeatCount="indefinite" path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/></circle>
+  <circle r="4.5" fill="#2c7899"><animateMotion dur="8s" begin="-1s" repeatCount="indefinite" path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/></circle>
+  <circle r="4" fill="#2c6e8f"><animateMotion dur="8s" begin="-0.8s" repeatCount="indefinite" path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/></circle>
+  <circle r="3.5" fill="#2c6485"><animateMotion dur="8s" begin="-0.6s" repeatCount="indefinite" path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/></circle>
+  <circle r="3" fill="#2c5a7b"><animateMotion dur="8s" begin="-0.4s" repeatCount="indefinite" path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/></circle>
+  <circle r="2.5" fill="#2c5071"><animateMotion dur="8s" begin="-0.2s" repeatCount="indefinite" path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/></circle>
+
+  <!-- tête avec les yeux, orientée dans le sens du déplacement -->
+  <g>
+    <ellipse rx="11" ry="9" fill="url(#g)"/>
+    <circle cx="4" cy="-4" r="2.6" fill="#fff"/>
+    <circle cx="4" cy="4" r="2.6" fill="#fff"/>
+    <circle cx="5" cy="-4" r="1.2" fill="#0f2027"/>
+    <circle cx="5" cy="4" r="1.2" fill="#0f2027"/>
+    <animateMotion dur="8s" begin="-3s" repeatCount="indefinite" rotate="auto"
+      path="M -40 60 C 60 10, 140 110, 240 60 S 420 10, 520 60 S 700 110, 840 60"/>
+  </g>
+</svg>
