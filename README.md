@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Salut%2C+moi+c'est+Mathys+%F0%9F%91%8B;Lyc%C3%A9en+en+Terminale+STI2D+%E2%80%94+SIN;Passionn%C3%A9+de+syst%C3%A8mes+embarqu%C3%A9s+%F0%9F%94%8C;J'apprends+%C3%A0+faire+parler+le+mat%C3%A9riel+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Mathys+%E2%80%94+Lyc%C3%A9en+en+Terminale+STI2D;Sp%C3%A9cialit%C3%A9+SIN+%E2%80%94+Syst%C3%A8mes+d'Information+et+Num%C3%A9rique;Syst%C3%A8mes+embarqu%C3%A9s+%7C+Informatique+industrielle;Python+%7C+MicroPython+%7C+C%2B%2B+%7C+HTML%2FCSS;Raspberry+Pi+Pico+%7C+Arduino+%7C+micro%3Abit;Serveur+personnel+sous+ZimaOS;Projet+de+serveur+priv%C3%A9+OG+Fortnite;Linux+%7C+Windows+%7C+macOS" alt="Informations" />
 </div>
 
 <br>
@@ -23,11 +23,10 @@
 
 ## 🎓 À propos de moi
 
-> *« Relier le logiciel et le matériel, c'est là que la magie opère. »*
-
 - 📚 En **Terminale STI2D**, spécialité **SIN** (Systèmes d'Information et Numérique)
 - 🏭 Intéressé par l'**informatique industrielle**, le **développement** et les **systèmes embarqués**
 - 🔧 J'aime programmer des capteurs, des cartes et des petits systèmes autonomes
+- 🖥️ J'utilise **Linux**, **Windows** et **macOS**
 - 🌱 Toujours en train d'apprendre et de monter de nouveaux projets
 
 ---
@@ -98,8 +97,23 @@ J'ai monté un **petit serveur personnel sous ZimaOS**, pour découvrir l'admini
 
 - 🔧 Installation et configuration de **ZimaOS** sur mon propre matériel
 - 📦 Gestion de services et d'applications en conteneurs
-- 💾 Stockage et accès aux fichiers depuis mon réseau local et distanciel via les docker intégrés
+- 💾 Stockage et accès aux fichiers depuis mon réseau local
 - 📚 Ce que ça m'apprend : Linux, réseau, sécurité et maintenance d'un système
+
+---
+
+## 🎮 Projet : serveur privé OG Fortnite
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Projet-Serveur%20priv%C3%A9%20OG%20Fortnite-9D4EDD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statut-En%20cours-yellow?style=for-the-badge" />
+</div>
+
+<br>
+
+J'ai **commencé un projet de serveur privé OG Fortnite**. C'est un projet d'apprentissage autour du **réseau**, de l'**hébergement de serveurs** et du **développement**.
+
+👉 Le projet est disponible dans mes dépôts : [**voir mes repositories**](https://github.com/mathysdalmasso2-code?tab=repositories)
 
 ---
 
@@ -116,7 +130,7 @@ J'ai monté un **petit serveur personnel sous ZimaOS**, pour découvrir l'admini
 
 ---
 
-## 🚀 Projets
+## 🚀 Autres projets
 
 Bientôt ici : mes projets avec Raspberry Pi Pico, Arduino et micro:bit.
 
