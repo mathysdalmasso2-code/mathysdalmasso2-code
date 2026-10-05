@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/Focus-Syst%C3%A8mes%20embarqu%C3%A9s-orange?style=for-the-badge" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mathysdalmasso2-code/mathysdalmasso2-code/main/snake.svg" width="100%" alt="Serpent animé" />
+</div>
+
 ---
 
 ## 🎓 À propos de moi
@@ -89,26 +93,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mathysdalmasso2-code&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 Trophées
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mathysdalmasso2-code&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-</div>
-
----
-
-## 🐍 Le serpent qui mange mes contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathysdalmasso2-code/mathysdalmasso2-code/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mathysdalmasso2-code/mathysdalmasso2-code/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/mathysdalmasso2-code/mathysdalmasso2-code/output/github-snake.svg" />
-  </picture>
 </div>
 
 ---
