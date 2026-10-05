@@ -97,7 +97,7 @@ J'ai monté un **petit serveur personnel sous ZimaOS**, pour découvrir l'admini
 
 - 🔧 Installation et configuration de **ZimaOS** sur mon propre matériel
 - 📦 Gestion de services et d'applications en conteneurs
-- 💾 Stockage et accès aux fichiers depuis mon réseau local
+- 💾 Stockage et accès aux fichiers depuis mon réseau local et distanciel via les docker intégrés
 - 📚 Ce que ça m'apprend : Linux, réseau, sécurité et maintenance d'un système
 
 ---
