@@ -1,9 +1,7 @@
-<!-- ===================== BANNIÈRE ===================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Mathys&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Terminale%20STI2D%20%C2%B7%20Sp%C3%A9cialit%C3%A9%20SIN&descAlignY=62&descSize=22" width="100%" />
 </div>
 
-<!-- ===================== TEXTE ANIMÉ ===================== -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Salut%2C+moi+c'est+Mathys+%F0%9F%91%8B;Lyc%C3%A9en+en+Terminale+STI2D+%E2%80%94+SIN;Passionn%C3%A9+de+syst%C3%A8mes+embarqu%C3%A9s+%F0%9F%94%8C;J'apprends+%C3%A0+faire+parler+le+mat%C3%A9riel+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
@@ -11,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mathys&label=Visites+du+profil&color=00b4d8&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mathysdalmasso2-code&label=Visites+du+profil&color=00b4d8&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Terminale-STI2D-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sp%C3%A9cialit%C3%A9-SIN-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Syst%C3%A8mes%20embarqu%C3%A9s-orange?style=for-the-badge" />
@@ -31,12 +29,6 @@
 ---
 
 ## 💻 Langages
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,html,css&perline=4" />
-</div>
-
-<br>
 
 <table align="center">
   <tr>
@@ -91,12 +83,12 @@
 ## 📊 Stats GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mathys&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathys&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mathysdalmasso2-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathysdalmasso2-code&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mathys&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mathysdalmasso2-code&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -104,15 +96,7 @@
 ## 🏆 Trophées
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mathys&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-</div>
-
----
-
-## 🌊 Activité
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mathys&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00d9ff&line=00b4d8&point=ffffff" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mathysdalmasso2-code&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 </div>
 
 ---
@@ -121,5 +105,22 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mathys/Mathys/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mathys/Mathys/output/git
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathysdalmasso2-code/mathysdalmasso2-code/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mathysdalmasso2-code/mathysdalmasso2-code/output/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/mathysdalmasso2-code/mathysdalmasso2-code/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🚀 Projets
+
+Bientôt ici : mes projets avec Raspberry Pi Pico, Arduino et micro:bit.
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=90E0EF&center=true&vCenter=true&width=600&lines=Merci+d'%C3%AAtre+pass%C3%A9+par+l%C3%A0+!+%E2%9C%A8" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer" width="100%" />
