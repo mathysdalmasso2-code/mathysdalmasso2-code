@@ -84,6 +84,24 @@
 
 ---
 
+## 🖥️ Mon serveur ZimaOS
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ZimaOS-Home%20Server-0A84FF?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auto--h%C3%A9bergement-Self--hosted-success?style=for-the-badge" />
+</div>
+
+<br>
+
+J'ai monté un **petit serveur personnel sous ZimaOS**, pour découvrir l'administration système, le réseau et l'auto-hébergement.
+
+- 🔧 Installation et configuration de **ZimaOS** sur mon propre matériel
+- 📦 Gestion de services et d'applications en conteneurs
+- 💾 Stockage et accès aux fichiers depuis mon réseau local
+- 📚 Ce que ça m'apprend : Linux, réseau, sécurité et maintenance d'un système
+
+---
+
 ## 📊 Stats GitHub
 
 <div align="center">
