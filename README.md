@@ -67,7 +67,8 @@
   <tr>
     <td align="center" width="260">
       <h4>🖥️ Systèmes</h4>
-      <img src="https://skillicons.dev/icons?i=linux,windows" />
+      <img src="https://skillicons.dev/icons?i=linux,windows,apple" /><br><br>
+      <img src="https://img.shields.io/badge/-ZimaOS-0A84FF?style=flat-square&logo=linux&logoColor=white" />
     </td>
     <td align="center" width="260">
       <h4>🔌 Matériel</h4>
